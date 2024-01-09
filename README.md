@@ -199,3 +199,9 @@ The following X bytes are read from PC, placed into a word, then this word is pu
 This repository caught my attention and brough back pleasant memories of Electronics class at the community collecge for designing the instruction set for a TTL microprocessor which was commonly referred as the SAP in 1980. Why not implement a EVM TTL microprocessor using these opcodes?
 
 First step is recalling past memories and creating a architecture plan.
+
+From Ben Eater's TTL breadboard computer at[ https://www.youtube.com/watch?v=HyznrdDSSGM&amp;list=PLowKtXNTBypGqImE405J2565dvjafglHU](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU) which mentions the book [Digital Computer Electronics by Paul Malvino](https://www.amazon.com/Digital-computer-electronics-Albert-Malvino/dp/0070398615/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704814427&sr=8-4) written in 1977 and the textbook used at the community college Electronics course ([on github](https://github.com/AzatAI/cs_books/blob/master/kupdf.net_digital-computer-electronics-3rd-edition-malvino.pdf)).
+
+Next build the Bob Eater's TTL computer using the EVM opcodes listed in this repository.
+
+Then a more advance topic is building a custom microchip from the EVM microprocessor, see [https://www.youtube.com/watch?v=Jf3ltgG5uck](https://www.youtube.com/watch?v=Jf3ltgG5uck)
