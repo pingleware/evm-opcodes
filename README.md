@@ -205,3 +205,5 @@ From Ben Eater's TTL breadboard computer at[ https://www.youtube.com/watch?v=Hyz
 Next build the Bob Eater's TTL computer using the EVM opcodes listed in this repository.
 
 Then a more advance topic is building a custom microchip from the EVM microprocessor, see [https://www.youtube.com/watch?v=Jf3ltgG5uck](https://www.youtube.com/watch?v=Jf3ltgG5uck)
+
+The purpose and goal for a ethereum microprocessor is NOT to mine ethereum but to run ethereum code natively.
