@@ -193,10 +193,9 @@ The following X bytes are read from PC, placed into a word, then this word is pu
 
 ### CALL
 
-
 # PRESSPAGE ENTERTAINMENT INC dba PINGLEWARE Contributions
 
-This repository caught my attention and brough back pleasant memories of Electronics class at the community collecge for designing the instruction set for a TTL microprocessor which was commonly referred as the SAP in 1980. Why not implement a EVM TTL microprocessor using these opcodes?
+This repository caught my attention and brough back pleasant memories of Electronics class at the community college for designing the instruction set for a TTL microprocessor which was commonly referred as the SAP in 1980. Why not implement a EVM TTL microprocessor using these opcodes using the SAP-1 board at [https://github.com/pingleware/SAP-1](https://github.com/pingleware/SAP-1) which is based on Ben Eater's TTL bradboard computer.
 
 First step is recalling past memories and creating a architecture plan.
 
